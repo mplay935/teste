@@ -1,1 +1,144 @@
-
+{
+  "project_info": {
+    "project_number": "463448985595",
+    "firebase_url": "https://rplay-f24c5-default-rtdb.firebaseio.com",
+    "project_id": "rplay-f24c5",
+    "storage_bucket": "rplay-f24c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463448985595:android:6d866d80a02090bcbe855e",
+        "android_client_info": {
+          "package_name": "com.android.mplay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCH2KVhYLtMcChdiGK26RbcQD9GTTh3xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463448985595:android:a2908b03bd93436dbe855e",
+        "android_client_info": {
+          "package_name": "com.android.rplay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCH2KVhYLtMcChdiGK26RbcQD9GTTh3xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463448985595:android:e2fa63444594d29cbe855e",
+        "android_client_info": {
+          "package_name": "com.example.panelexoply"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCH2KVhYLtMcChdiGK26RbcQD9GTTh3xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463448985595:android:fd185a062a846e99be855e",
+        "android_client_info": {
+          "package_name": "com.google.android.exoplayer2.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCH2KVhYLtMcChdiGK26RbcQD9GTTh3xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463448985595:android:f1555dc1822bc2a8be855e",
+        "android_client_info": {
+          "package_name": "com.google.android.mplay.mplay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCH2KVhYLtMcChdiGK26RbcQD9GTTh3xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463448985595:android:05bdba6a1e8bec10be855e",
+        "android_client_info": {
+          "package_name": "com.google.android.rplay.rplay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCH2KVhYLtMcChdiGK26RbcQD9GTTh3xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463448985595:android:f0af43df92cbd78abe855e",
+        "android_client_info": {
+          "package_name": "com.rp.tvpypro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCH2KVhYLtMcChdiGK26RbcQD9GTTh3xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
